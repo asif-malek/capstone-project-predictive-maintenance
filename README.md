@@ -1,2 +1,2 @@
-# capstone-project-predictive-maintenance
+# Vehicle-predictive-maintenance
 Predict vehicle breakdown before they occur
